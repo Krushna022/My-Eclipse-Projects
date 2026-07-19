@@ -13,5 +13,13 @@ public class Bat {
 		return new Random().nextInt(130);
 		
 	}
+
+
+
+
+
+	public duu(){
+		//changes 130 
+	}
 	
 }
