@@ -14,12 +14,17 @@ public class Bat {
 		
 	}
 
+<<<<<<< Updated upstream
 
 
 
 
 	public duu(){
 		//changes 130 
+=======
+	public change(){
+		//this is my 123 task
+>>>>>>> Stashed changes
 	}
 	
 }
